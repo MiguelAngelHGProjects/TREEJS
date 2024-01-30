@@ -54,4 +54,5 @@ This project builds upon the A-Frame framework and integrates additional compone
 
 Feel free to experiment, modify, and extend the code for your own projects!
 
+## The lollipop
 -<image src="aframe-master\lollipop.png" alt="Showing the lollipop">
