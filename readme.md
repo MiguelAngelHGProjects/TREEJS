@@ -53,3 +53,5 @@ This A-Frame project showcases hand tracking with added gestures for grabbing ob
 This project builds upon the A-Frame framework and integrates additional components and scripts for enhanced interactions.
 
 Feel free to experiment, modify, and extend the code for your own projects!
+
+-<image src="aframe-master\lollipop.png" alt="Showing the lollipop">
